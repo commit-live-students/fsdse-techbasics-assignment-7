@@ -1,4 +1,4 @@
-# Tech Basics - Assignment 2
+# Tech Basics - Assignment 7
 
 ### Play With Github REST API's
 
