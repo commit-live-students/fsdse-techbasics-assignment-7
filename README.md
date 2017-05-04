@@ -24,3 +24,7 @@
 #### Note 
 * Base url for all github rest api is `https://api.github.com/`
 * Excercise activity need github authentication. For authentication check [link](https://developer.github.com/v3/#authentication)
+
+#### Explore REST API 
+* [apigee.com](https://apigee.com/console/github) is nice developer tool to explore and play with lots of open source REST API. 
+
