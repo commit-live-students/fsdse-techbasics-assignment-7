@@ -8,7 +8,7 @@
 
 #### Instructor Demo
 
-* `GET` request
+* Github `GET` request
   - Get user detail - https://api.github.com/users/PradeepJaiswar
   - Get orgs repos - https://api.github.com/orgs/commit-live-students/repos
   - Get repo info - https://api.github.com/repos/commit-live-students/fsdse-techbasics
@@ -17,10 +17,10 @@
   - Get repo file contents - https://api.github.com/repos/PradeepJaiswar/ember-mailbox/contents/package.json
 
 #### Exercise For Student
-  - [Create a file in repo using rest api](https://developer.github.com/v3/repos/contents/#create-a-file)
-  - [Update a file in repo using rest api](https://developer.github.com/v3/repos/contents/#update-a-file)
-  - [Delete a file in repo using rest api](https://developer.github.com/v3/repos/contents/#delete-a-file)
+  - [Create a file in repo using github rest api](https://developer.github.com/v3/repos/contents/#create-a-file)
+  - [Update a file in repo using github rest api](https://developer.github.com/v3/repos/contents/#update-a-file)
+  - [Delete a file in repo using github rest api](https://developer.github.com/v3/repos/contents/#delete-a-file)
 
 #### Note 
-* Base url for all rest api is `https://api.github.com/`
+* Base url for all github rest api is `https://api.github.com/`
 * Excercise activity need github authentication. For authentication check [link](https://developer.github.com/v3/#authentication)
