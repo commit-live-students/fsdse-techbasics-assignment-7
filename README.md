@@ -4,7 +4,7 @@
 
 * We will be using Postman - A google chrome app as a rest client in this assignment
 * Download chrome applicatiom Postman from [URL](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop/related?hl=en)
-* For more information how to use postman watch [videos](https://www.youtube.com/watch?v=8veXJ9YGlFI&list=PLM-7VG-sgbtD8qBnGeQM5nvlpqB_ktaLZ)
+* For more information how to use Postman watch [videos](https://www.youtube.com/watch?v=8veXJ9YGlFI&list=PLM-7VG-sgbtD8qBnGeQM5nvlpqB_ktaLZ)
 
 #### Instructor Demo
 
