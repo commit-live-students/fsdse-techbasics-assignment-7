@@ -5,7 +5,7 @@
 ### Play With Github REST API's
 
 * We will be using Postman - A google chrome app as a rest client in this assignment
-* Download chrome applicatiom Postman from [URL](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop/related?hl=en)
+* Download Chrome application Postman from [URL](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop/related?hl=en)
 * For more information how to use Postman watch [videos](https://www.youtube.com/watch?v=8veXJ9YGlFI&list=PLM-7VG-sgbtD8qBnGeQM5nvlpqB_ktaLZ)
 
 #### Instructor Demo
@@ -24,8 +24,8 @@
   - [Delete a file in repo using github rest api](https://developer.github.com/v3/repos/contents/#delete-a-file)
 
 #### Note 
-* Base url for all github rest api is `https://api.github.com/`
-* Excercise activity need github authentication. For authentication check [link](https://developer.github.com/v3/#authentication)
+* Base URL for all Github rest API is `https://api.github.com/`
+* Excercise activity need Github authentication. For authentication check [link](https://developer.github.com/v3/#authentication)
 
 #### Explore REST API 
 * [apigee.com](https://apigee.com/console/github) is nice developer tool to explore and play with lots of open source REST API. 
